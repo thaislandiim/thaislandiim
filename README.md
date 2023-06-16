@@ -1,3 +1,7 @@
+  <h1 align="center">
+    Prazer meu nome é
+    <a href="linkedin.com/in/thais-landim-201305237">Thais Landim</a>
+  </h1>
 <div align="center">
   <a href="https://github.com/thaislandiim">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaislandiim&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
