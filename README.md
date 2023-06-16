@@ -1,6 +1,6 @@
   <h1 align="center">
     Prazer meu nome é
-    <a href="linkedin.com/in/thais-landim-201305237">Thais Landim</a>
+    <a href="https://www.https://www.linkedin.com/in/thais-landim-201305237/">Thais Landim</a>
   </h1>
 <div align="center">
   <a href="https://github.com/thaislandiim">
